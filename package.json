@@ -1,5 +1,5 @@
 {
-  "name": "agentbox",
+  "name": "@tafka4/agentbox",
   "version": "0.1.0",
   "description": "Orchestration framework for multi-agent LLM systems",
   "type": "module",

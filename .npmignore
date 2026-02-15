@@ -1,0 +1,35 @@
+# Source (published package only needs dist/)
+src/
+tests/
+examples/
+
+# Config
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+.eslintrc*
+.prettierrc*
+.editorconfig
+
+# Dev tooling
+.git/
+.github/
+.vscode/
+.idea/
+
+# Logs & coverage
+*.log
+coverage/
+.nyc_output/
+
+# Environment
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tgz
+*.tsbuildinfo
