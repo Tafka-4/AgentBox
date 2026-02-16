@@ -23,7 +23,7 @@
 ## Installation
 
 ```bash
-npm install agentbox
+npm i @tafka4/agentbox
 ```
 
 ## Quick Start
